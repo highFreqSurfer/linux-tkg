@@ -724,3 +724,4 @@ xt_tcpudp
 xxhash_generic
 zlib_deflate
 zram
+ipheth
