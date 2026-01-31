@@ -8,7 +8,7 @@ on:
 
 
 env:
-  _processor_opt: "x86-64"
+  _processor_opt: "znver3"
   _git_mirror: "gregkh"
   PKGDEST: "/tmp/linux-tkg"
   _debugdisable: "true"
